@@ -1,0 +1,24 @@
+{
+  "name": "TH3K",
+  "vendorId": "FEED",
+  "productId": "0x0000",
+    "lighting": "none",
+    "matrix": {
+        "rows": 1,
+        "cols": 3
+    },
+    "layouts": {
+        "labels":[],
+        "keymap":[
+                     ["0,0","0,1","0,2",
+                         {
+                              "x": 1.25,
+                              "f": 4,
+                              "w": 14,
+                              "h": 5,
+                              "d": true
+                         }
+                      ]
+                   ]
+    }
+}
